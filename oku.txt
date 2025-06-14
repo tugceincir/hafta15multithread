@@ -1,0 +1,1 @@
+Son haftada, Python’daki threading modülünü kullanarak aynı anda birden fazla iş parçacığını (thread) çalıştırmayı öğrendik.
